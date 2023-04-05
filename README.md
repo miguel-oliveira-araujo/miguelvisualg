@@ -8,4 +8,4 @@
 # exercício tabuada
 <p> Esse algoritmo faz a tabuada de três formas: <br><br>
 usei a função"enquanto". Ela irá repetir uma operação que adiciona 1 ao caractere "i", na qual multiplica o valor  até que "i" chegue a 10. <br>
-usei função "para", Nesse caso, você diz onde começa e termina, e o programa irá repetir a operação.
+usei função "para", Nesse caso, você diz onde começa e termina, e o programa irá repetir a operação.</p>
