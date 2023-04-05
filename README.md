@@ -2,6 +2,7 @@
 
 # exercício combusível
 <p> Fiz um programa onde ele indentifica o tipo de combustível entre álcool e gasolina, e dará o desconto baseado no tipo de combustivel e a quantidade de litros que o cliente escolheu. </p>
+
 # exercício votação
 <p> Fiz um programa onde organiza uma votação entre três candidatos e diz quem ganhou. </p>
 
